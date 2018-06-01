@@ -1,5 +1,5 @@
 
-# Postgresql extension: adding pg_sleep and pg_usleep functions
+# Hello-World Postgresql extension
 
 ## Why ?
 
@@ -9,12 +9,12 @@ Kind of Hello-World ;)
 
 ## What ?
 
-`pg_sleep(seconds)` and `pg_sleep(microseconds)` functions.
+Adding `pg_sleep(seconds)` and `pg_sleep(microseconds)` functions.
 
 ## Install
 
 ```
-cd /usr/lib/postgresql/10/lib
+cd /usr/lib/postgresql/<version>/lib
 git clone git@github.com:samber/pg_sleep.git
 cd pg_sleep
 make install
