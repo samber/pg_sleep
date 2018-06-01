@@ -3,7 +3,7 @@
 
 ## Why ?
 
-Just for fun ¯\_(ツ)_/¯
+Just for fun ¯\\_(ツ)_/¯
 
 Kind of Hello-World ;)
 
