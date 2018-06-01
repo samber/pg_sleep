@@ -9,7 +9,7 @@ Kind of Hello-World ;)
 
 ## What ?
 
-Adding `pg_sleep(seconds)` and `pg_sleep(microseconds)` functions.
+Adding `pg_sleep(seconds)` and `pg_usleep(microseconds)` functions.
 
 ## Install
 
