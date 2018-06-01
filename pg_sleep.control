@@ -1,0 +1,4 @@
+# pg_sleep extension
+comment = 'Adds some sleep() functions, because ...why not!'
+default_version = '0.0.1'
+relocatable = true

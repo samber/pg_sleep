@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:10
+    volumes:
+      - .:/usr/lib/postgresql/10/lib/pg_sleep
